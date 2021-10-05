@@ -1,4 +1,4 @@
-'usestrict';
+'use strict';
 // vartiant with closure
 window.onload = function () {
     let count = 0;
